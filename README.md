@@ -1,16 +1,13 @@
-## Hi there 👋
+Stives Aragao | Portfólio 👨‍🎓 Estudante de Engenharia de Software na faculdade CEUB |💡 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor |🌐 Formado na escola CEMI do Cruzeiro, fluente em inglês.
 
-<!--
-**StivesAragao/StivesAragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📬 Contato 📧 stivesaragao@sempreceub.com
 
-Here are some ideas to get you started:
+💻 GitHub: https://github.com/StivesAragao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre Mim Meu nome é Stives Aragão, tenho 18 anos e sou estudante de engenharia de software. Sempre fui apaixonado por videogames e pela área de tecnologia, e nesse momento procuro me desenvolver como programador.
+
+🛠️ Habilidades Linguagens: HTML, CSS, JavaScript
+
+Ferramentas: Git, Visual Studio Code, Figma
+
+Idiomas: Português (nativo), Inglês (fluente)
