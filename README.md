@@ -1,5 +1,7 @@
 Stives Aragao | Portfólio 👨‍🎓 Estudante de Engenharia de Software na faculdade CEUB |💡 Procurando aprender novas tecnologias e conhecimentos para me tornar um profissional melhor |🌐 Formado na escola CEMI do Cruzeiro, fluente em inglês.
 
+📃 https://drive.google.com/drive/folders/1cdaqGb0SriI3VmttiaC0ynL5kwvUkvLF?usp=sharing
+
 📬 Contato 📧 stivesaragao@sempreceub.com
 
 💻 GitHub: https://github.com/StivesAragao
