@@ -8,7 +8,7 @@ Stives Aragao | Portfólio 👨‍🎓 Estudante de Engenharia de Software na fa
 
 🧠 Sobre Mim Meu nome é Stives Aragão, tenho 18 anos e sou estudante de engenharia de software. Sempre fui apaixonado por videogames e pela área de tecnologia, e nesse momento procuro me desenvolver como programador.
 
-🛠️ Habilidades Linguagens: HTML, CSS, JavaScript
+🛠️ Habilidades Linguagens: HTML, CSS, JavaScript, Pyhton, SQL
 
 Ferramentas: Git, Visual Studio Code, Figma
 
